@@ -37,7 +37,8 @@ void tokenizing() {
             phrase = strtok(NULL, ",");
         }
     }
-    printf("*** End of Tokenizing Words Demo ***\n\n"); // Prints out the end of the program.
+    printf("*** End of Tokenizing phrases Demo ***\n\n"); // Prints out the end of the program.
+
 /* Version 3 */
     printf("*** Start of Tokenizing sentences Demo ***\n"); // Prints out the start of the program
     char sentences[200];                                     // Declares the array of sentences
