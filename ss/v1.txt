@@ -1,0 +1,13 @@
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+154165
+Converted number is 154165
+Type the int numeric string (q - to quit):
+adgvfsfed
+Converted number is 0
+Type the int numeric string (q - to quit):
+123asfd
+Converted number is 123
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***

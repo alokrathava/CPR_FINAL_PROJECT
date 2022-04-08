@@ -1,0 +1,13 @@
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+3245345
+Converted number is 3245345
+Type the long numeric string (q - to quit):
+faergsrt
+Converted number is 0
+Type the long numeric string (q - to quit):
+21q2324fafaer
+Converted number is 21
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***

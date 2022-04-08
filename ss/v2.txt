@@ -1,0 +1,13 @@
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+142334
+Converted number is 142334.000000
+Type the double numeric string (q - to quit):
+fgesrgea
+Converted number is 0.000000
+Type the double numeric string (q - to quit):
+1232rsdfae
+Converted number is 1232.000000
+Type the double numeric string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***
